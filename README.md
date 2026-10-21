@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Estudiante de Ingeniería** enfocado la programación, redes y sistemas de telecomunicaciones.
+* 🎓 **Estudiante de Ingeniería** enfocado en programación, redes y sistemas de telecomunicaciones.
 * 🛠️ **Sysadmin & Homelab Enthusiast:** Construyendo infraestructura autoalojada (*self-hosted*), redes virtuales y despliegues con Proxmox y Docker.
 * 🤝 **Coordinador IT & Promotor Comunitario:** Gestiono sistemas y tecnología para asociaciones y participo en la organización de actividades juveniles.
 * 🧑‍💻 **Hobbyist:** Apasionado de la producción de audio y video, iluminación DMX y sistemas de telecomunicaciones.
